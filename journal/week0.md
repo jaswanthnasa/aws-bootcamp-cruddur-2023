@@ -2,7 +2,7 @@
 
 started with weeko
 
-![image to show](/assets/Untitled.png)
+![image to show](assets/Untitled.png)
 
 
 
