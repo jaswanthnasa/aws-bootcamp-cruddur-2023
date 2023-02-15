@@ -2,7 +2,7 @@
 
 started with weeko
 
-![image to show](assets/billing.PNG)
+![image to show](assets/Capture.JPG)
 
 
 
