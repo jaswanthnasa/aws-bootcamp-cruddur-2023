@@ -3,4 +3,4 @@
 started with weeko
 
 
-![google image ](assets/billing.PNG)
+![google image ](assets/billing.jpg)
