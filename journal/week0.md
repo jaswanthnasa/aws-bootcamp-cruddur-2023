@@ -4,7 +4,7 @@
 
 ![aws-installted](https://user-images.githubusercontent.com/92042814/219269406-ea5b1673-1378-4186-8085-27f93b3a3dfd.JPG)
 
-## Architecture Diagram using Lucid
+### Architecture Diagram using Lucid
 
 Worked on arcjitecture diagram using lucid charts.
 ![arch-diagram](https://user-images.githubusercontent.com/92042814/219745512-19e2bb2f-3775-484b-a80b-622b166481e3.JPG)
