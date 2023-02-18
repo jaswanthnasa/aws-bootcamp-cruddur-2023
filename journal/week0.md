@@ -18,9 +18,10 @@ Worked on arcjitecture diagram using lucid charts.
 
 ```
 referred below AWS documentaion to set up billing alarm in cloud wathch to estimate usage
+```
 [create Billing alarm](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html#creating_billing_alarm_with_wizard)
 
-```
+
 
 
 
