@@ -22,7 +22,7 @@ One finding is billing alarm can be created only in US-EAST-1 (N. Virginia) regi
 ```
 [Create Billing alarm](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html#creating_billing_alarm_with_wizard)
 
-### 
+### sts caller identity check from cloud shell
 ![sts-caller-identity](https://user-images.githubusercontent.com/92042814/219874091-3d8459a0-0518-49b1-b3c2-80e53b45f677.JPG)
 
 
