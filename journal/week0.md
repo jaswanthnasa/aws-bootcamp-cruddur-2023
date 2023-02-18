@@ -18,8 +18,9 @@ Worked on arcjitecture diagram using lucid charts.
 
 ```
 referred below AWS documentaion to set up billing alarm in cloud wathch to estimate usage
+One finding is billing alarm can be created only in US-EAST-1 (N. Virginia) region as in AWS billing metric data is **only** stored in N.Virginia region .
 ```
-[create Billing alarm](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html#creating_billing_alarm_with_wizard)
+[Create Billing alarm](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html#creating_billing_alarm_with_wizard)
 
 
 
